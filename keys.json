@@ -2,7 +2,8 @@
   {
     "key": "ADMIN-MASTER-KEY",
     "hwid": "ANY",
-    "expire_date": "2099-12-31"
+    "expire_date": "2099-12-31",
+    "status": "ACTIVE"
   },
   {
     "key": "ADMIN-CXS-4E44-93F5-B729",
